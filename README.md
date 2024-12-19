@@ -56,9 +56,8 @@
 
 ### 🛠️ Tools
 <p align="center">
-  
   <a href="https://cloudflare.com/" target="_blank"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>  
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
   <a href="https://www.nginx.com" target="_blank"><img src="https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" /></a>
   <a href="https://www.oracle.com/" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" /></a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" /></a>
@@ -72,15 +71,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamLakshikaTanwar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamLakshikaTanwar" alt="GitHub Streak" />
-</p>
 
 ---
 
 ### 💡 Projects to Explore
 - **[dmj.one](https://github.com/dmjone/):** Building an accessible platform for quality education  
-- **[GCP Lectures]https://github.com/iamLakshikaTanwar/gcp-taiwan):** A comprehensive collection of notes, assignments, and project work for the Google Cloud Platform (GCP) course at National Quemoy University.  
+- **[GCP Lectures](https://github.com/iamLakshikaTanwar/gcp-taiwan):** A comprehensive collection of notes, assignments, and project work for the Google Cloud Platform (GCP) course at National Quemoy University.  
 <!-- - **[Medicine Sharing Initiative](https://medicine.dmj.one):** Public welfare platform for medicine availability  -->
 
 ---
