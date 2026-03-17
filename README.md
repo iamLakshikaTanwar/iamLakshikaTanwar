@@ -12,9 +12,9 @@
 - **🌱 Always Learning:** learning Python for Everybody from py4e.com
 - **👯 Collaboration Goals:** Looking to collaborate on open-source and impactful projects  
 - **🚀 Vision:** To be a successful business woman 
-- **🎓 Education:** B.Tech in Computer Science (Cloud Computing) at Shoolini University, currently an exchange student at NQU.
+- **🎓 Education:** B.Tech in Computer Science (Cloud Computing) at Shoolini University.
 
----
+--
 
 ### 🌐 Connect with Me
 <p align="center">
